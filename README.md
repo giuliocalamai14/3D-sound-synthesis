@@ -23,7 +23,7 @@ resampling_db.m
 
 ### Matlab GUI Preview
 
-![]()
+![](https://github.com/giuliocalamai14/3D-sound-synthesis/blob/master/GUI%20image/gui.png)
 
 
 
