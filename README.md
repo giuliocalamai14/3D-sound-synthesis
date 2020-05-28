@@ -3,7 +3,7 @@
 Binaural synthesis for reproduction spatial of audio signals.
 
 ### Database
-PKU-IOA-HRTF database 65536 Hz (http://www.cis.pku.edu.cn/auditory/Staff/Dr.Qu.files/Qu-HRTFDatabase.html). You can put the files into the folder.
+PKU-IOA-HRTF database 65536 Hz (http://www.cis.pku.edu.cn/auditory/Staff/Dr.Qu.files/Qu-HRTFDatabase.html). You can put the files into the folder PKU-IOA Database (65536 Hz).
 
 ### Pipeline
 1. Generating offline info (HRTF coordinates -> tetrahedral mesh -> octree generation)
